@@ -13,5 +13,4 @@ int main(){
     cout<<n<<endl;//4
     n%=3;
     cout<<n;//1
-
 }
