@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// type2 withou argument with return value
+// type2 without argument with return value
 
 int display(){
     int n=100;
