@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace  std;
 
-//using a switch case make a ranbow choice that throws the output according to the initail
+//using a switch case make a ranbow choice that throws the output according to the initial
 
 int main(){
     char c ;
