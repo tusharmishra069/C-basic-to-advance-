@@ -19,3 +19,7 @@ else {
     cout<<"composite no.";
 }
 }
+
+int main(){
+    prime();
+}
