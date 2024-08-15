@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// ques - extract odd and even no. spearately from the array print the element also if some of array is in between 30-50 print the some else 
+// ques - extract odd and even no. separately from the array print the element also if some of array is in between 30-50 print the some else 
 //        return 0 for odd no. multiple every element with 2 and print it
 
 int main(){
