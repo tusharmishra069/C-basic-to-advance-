@@ -38,7 +38,7 @@ int main(){
         }
     
     }
-    cout<<"sum of the matrix is: "<<endl;
+    cout<<"sum of the matrix  is: "<<endl;
         for (int i = 0; i < row1; i++)
     {
         for (int j = 0; j < col1; j++)
