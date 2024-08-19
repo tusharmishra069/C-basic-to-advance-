@@ -11,6 +11,7 @@ using namespace std;
 // 4.hybrid inheritance
 // 5.herarical inheritance
 
+// 1.Single and simple inheritance example
 
 class add{
     public:
