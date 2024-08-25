@@ -4,6 +4,7 @@
 using namespace std;
 
 //question add three no. from the user and add it using the concept of pointers
+// basic concept
 
 int main(){
     int n1,n2,n3;
