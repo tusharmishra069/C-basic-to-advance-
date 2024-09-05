@@ -49,7 +49,8 @@ void printList(Node* head) {
 int main() {
     Node* head = nullptr;
 
-    // Insert elements at the beginning
+    // Insert elements at the beginning 
+    //because we had to insert first the node then we add it node in the position
     insertAtBeginning(head, 3);
     insertAtBeginning(head, 2);
     insertAtBeginning(head, 1);
