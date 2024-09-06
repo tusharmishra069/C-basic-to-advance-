@@ -2,7 +2,7 @@
 using namespace std;
 
 
-
+//this is the combination of the insert at beg and pos
 class Node{
     public:
     int data;
