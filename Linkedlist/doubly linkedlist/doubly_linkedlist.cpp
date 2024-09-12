@@ -24,7 +24,6 @@ class Node{
             head=NULL;
         }
         void insert(int data);
-        void insertatbeginning(int data);
         void display();
     };
     void linkedlist::insert(int data)
@@ -54,19 +53,7 @@ class Node{
             temp = temp->next;
         }
     }
-    void linkedlist:: insertatbeginning(int data){
-        Node* newnode=new Node(data);
-        if(head==NULL)
-        {
-            head = newnode;
-            return;
-        } 
-        else{
-            newnode->next=head;
-            head->prev=newnode;
-            head=newnode;
-        }
-    }
+
     int main(){
         linkedlist obj;
         obj.insert(100);
