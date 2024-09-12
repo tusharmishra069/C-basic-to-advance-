@@ -25,7 +25,6 @@ class Node{
         }
         void insert(int data);
         void insertatbeginning(int data);
-        void insertatposition(int data,int pos);
         void display();
     };
     void linkedlist::insert(int data)
